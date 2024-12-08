@@ -1,6 +1,6 @@
 How to use this script:
 
-1. Download the Discord PTB (https://discord.com/api/downloads/distributions/app/installers/latest?channel=ptb&platform=win&arch=x64)
+1. Download the Discord PTB and log into your account (https://discord.com/api/downloads/distributions/app/installers/latest?channel=ptb&platform=win&arch=x64)
 2. Accept a quest under User Settings -> Gift Inventory
 3. Press Ctrl+Shift+I to open DevTools
 4. Go to the Console tab
